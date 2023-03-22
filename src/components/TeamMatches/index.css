@@ -1,0 +1,68 @@
+/* Write your CSS here */
+.resentAllMatches {
+  display: flex;
+  flex-wrap: wrap;
+}
+.rcb {
+  background: linear-gradient(to top, #1e293b, #a4261d);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.kkr {
+  background: linear-gradient(to top, #1e293b, #5755a7);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.kxp {
+  background: linear-gradient(to top, #1e293b, #d91c1f);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.csk {
+  background: linear-gradient(to top, #1e293b, #f7db00);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.rr {
+  background: linear-gradient(to top, #1e293b, #da237b);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.mi {
+  background: linear-gradient(to top, #1e293b, #13418b);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.srh {
+  background: linear-gradient(to top, #1e293b, #f26d22);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.dc {
+  background: linear-gradient(to top, #1e293b, #4f5db0);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

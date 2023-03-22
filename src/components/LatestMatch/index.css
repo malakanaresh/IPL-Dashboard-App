@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.container {
+  background-color: lightblue;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+.img-src {
+  height: 100px;
+}

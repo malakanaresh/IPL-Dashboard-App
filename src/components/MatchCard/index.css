@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.match-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #0f172a;
+  width: 48%;
+  border-radius: 16px;
+  padding-top: 12px;
+  padding-left: 16px;
+  padding-bottom: 12px;
+  padding-right: 16px;
+  margin-bottom: 24px;
+}
+
+.heading {
+  font-size: 15px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.competing-team-logo {
+  max-width: 60px;
+  height: 40px;
+}

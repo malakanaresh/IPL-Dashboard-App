@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.imgSize {
+  height: 80px;
+}
+.team-name {
+  font-size: 14px;
+  color: #ffffff;
+  display: flex;
+  flex-wrap: wrap;
+}
+.teams-container {
+  width: 200px;
+  height: 100px;
+  border-style: solid;
+  background-color: #ffffff33;
+  margin: 10px;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
